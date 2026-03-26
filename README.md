@@ -1,6 +1,7 @@
 <h1 align="center">💸 Wallet - Expense Tracker with React Native & Express 🚀</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
+![Demo App](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/23377e43-7e8b-4bee-aab5-a31b68c808be" />
+)
 
 
 ## 🧑‍🍳 App Features Overview
